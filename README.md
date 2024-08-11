@@ -1,7 +1,8 @@
 # Analysis and Prediction of Daily AQI of Chennai
 
 This repository contains the code for analysing and predicting the daily Air Quality Index (AQI) of Chennai, India using historical data from May 2015 to December 2023.
-Dataset was downloaded from UrbanEmissions.Info and can be found here: https://urbanemissions.info/india-air-quality/india-ncap-aqi-indian-cities-2015-2023
+
+The dataset was downloaded from UrbanEmissions.Info and can be found here: https://urbanemissions.info/india-air-quality/india-ncap-aqi-indian-cities-2015-2023
 
 Analyses performed:
 
