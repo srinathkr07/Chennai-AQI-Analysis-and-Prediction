@@ -17,4 +17,5 @@ iii) Visualising the number of days each air quality category ('Good', 'Satisfac
 Prediction:
 
 Used a sequential neural network model with two **LSTM** layers followed by two dense layers.
+
 Obtained a root mean squared error of 6.207 on the test split (20% of the overall data). 
