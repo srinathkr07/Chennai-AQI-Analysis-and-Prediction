@@ -4,7 +4,7 @@ This repository contains the code for analysing and predicting the daily Air Qua
 
 The dataset was downloaded from UrbanEmissions.Info and can be found here: https://urbanemissions.info/india-air-quality/india-ncap-aqi-indian-cities-2015-2023
 
-Analyses performed:
+**Analyses performed:**
 
 i) Visualising the average AQI for each month across different years as a heatmap.
 
@@ -14,7 +14,7 @@ iii) Visualising the number of days each air quality category ('Good', 'Satisfac
 
 (iv) Finding the number of days a pollutant was a prominent pollutant for each month across different years. 
 
-Prediction:
+**Prediction:**
 
 Used a sequential neural network model with two **LSTM** layers followed by two dense layers.
 
